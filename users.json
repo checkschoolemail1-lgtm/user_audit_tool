@@ -1,0 +1,4 @@
+[
+    {"user": "alice", "role": "developer", "mfa": true, "last_login_days": 3},
+    {"user": "bob", "role": "admin", "mfa": false, "last_login_days": 1}
+]
